@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\bin\Debug\Api.ADAproductosComun.Comun.dll
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\bin\Debug\Api.ADAproductosComun.Comun.pdb
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\obj\Debug\Api.ADAproductosComun.Comun.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\obj\Debug\Api.ADAproductosComun.Comun.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\obj\Debug\Api.ADAproductosComun.Comun.dll
+C:\Users\USUARIO\source\repos\Api.ADAproductosComun\Api.ADAproductosComun.Comun\obj\Debug\Api.ADAproductosComun.Comun.pdb
